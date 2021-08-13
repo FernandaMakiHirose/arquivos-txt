@@ -4,7 +4,7 @@
 3) Desafio
 
 ## Desafio
-Na Empresa da Fernanda, sempre analisamos o nosso "Funil de Vendas". Para isso, rastreamos de onde veio os alunos por meio de um código, do tipo: <br>
+Na Empresa da Fernanda, sempre analisamos o nosso "Funil de Vendas". Para isso, rastreamos de onde veio os alunos por meio de um código, do tipo: <br><br>
 hashtag_site_org -> Pessoas que vieram pelo site da Fernanda. <br>
 hashtag_yt_org -> Pessoas que vieram pelo Youtube da Fernanda. <br>
 hashtag_ig_org -> Pessoas que vieram pelo Instagram da Fernanda. <br>
